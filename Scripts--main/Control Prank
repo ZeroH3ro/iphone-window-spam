@@ -1,0 +1,10 @@
+REM Author: Acaori
+REM Description: Open any website on an iPhone.
+REM Version: 1.0
+REM Category: iPhone
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Just hacked you nerd i got your ssn and have complete control of your device
+DELAY 500
+ENTER
